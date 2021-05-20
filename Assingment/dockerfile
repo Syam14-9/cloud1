@@ -1,0 +1,6 @@
+FROM python
+COPY . /Docker
+WORKDIR /Docker
+RUN pip install numpy
+RUN pip install pandas 
+CMD python code.py
