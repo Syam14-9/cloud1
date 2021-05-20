@@ -1,1 +1,1 @@
-# cloud1
+# docker pull syamramadan/cloud1:tagname
